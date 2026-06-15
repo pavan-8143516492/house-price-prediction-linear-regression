@@ -52,4 +52,4 @@ even small implementation errors.
 - Extend to multiple features (bedrooms, location, age of house)
 - Apply feature scaling for multivariate gradient descent
 - Compare results with scikit-learn's `LinearRegression`
-- Apply the model to a real-world dataset (e.g., Bangalore house prices from Kaggle)
+
