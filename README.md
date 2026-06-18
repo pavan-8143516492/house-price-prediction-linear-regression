@@ -7,12 +7,12 @@ Indian housing-style data, with increasing complexity.
 
 ## Projects
 
-01-single-feature-linear-regression
+[01 - Single-Feature Linear Regression](./01-single-feature-linear-regression)
 Linear regression using a single feature (size in sq ft) to predict
 house price. Covers cost function and gradient descent implemented
 manually.
 
-02-multi-feature-linear-regression
+[02 - Multi-Feature Linear Regression](./02-multi-feature-linear-regression)
 Extends the model to multiple features (size, bedrooms, floors, age)
 using vectorized NumPy operations. Covers feature scaling (z-score
 normalization) and vectorized gradient descent.
